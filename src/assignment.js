@@ -25,7 +25,6 @@ const assignment = {};
     }
     console.log(sumOfNumbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]))
 
-
 /**
  * Challenge - 2
  * 
@@ -35,6 +34,7 @@ const assignment = {};
  * @param {Array} arrayOfNumbers the array containing even or non-even numbers
  * @returns number the count of even numbers
  */
+ 
  function getEvenNumbers(array) {
 
     let arrayOfNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
@@ -49,7 +49,6 @@ const assignment = {};
 }
 
 console.log(getEvenNumbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]))
-
 
 /**
  * Challenge - 3
